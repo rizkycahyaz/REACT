@@ -197,7 +197,7 @@ function Mahasiswa() {
               <tr>
                 <td>{index + 1}</td>
                 <td>{mh.nama}</td>
-                <td>{mh.jurusan}</td>
+                <td>{mh.jurusan}</td>yy
                 <td>
                   <img src={url + mh.gambar} height="100" />
                 </td>
